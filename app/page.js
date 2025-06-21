@@ -33,6 +33,13 @@ export default function Home() {
           >
             Week 5
           </Link>
+          <Link
+            href="/week-6"
+            className="block text-center py-2 px-4 rounded
+            bg-gray-700 hover:bg-gray-600 transition"
+          >
+            Week 6
+          </Link>
         </div>
       </div>
     </div>
